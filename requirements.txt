@@ -1,0 +1,10 @@
+torch
+torchvision
+tqdm
+numpy
+pillow
+pytorch-grad-cam
+scikit-learn
+umap-learn
+seaborn
+matplotlib
